@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is the remediation procedure when Turbine-002 bearing hub overheats?",
+    "contexts": [
+      "Turbine-002 bearing hub operating above 85C requires emergency lubricant flushing and immediate load de-rating to 50% capacity."
+    ],
+    "answer": "Perform an emergency lubricant flush and immediately de-rate the load to 50% capacity.",
+    "ground_truth": "The procedure dictates an emergency lubricant flushing and load reduction down to 50%."
+  }
+]
